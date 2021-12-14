@@ -24,4 +24,4 @@
 -keep class com.aloke.signaturepad.SilkySignaturePad{
     public <methods>;
 }
--keep  interface com.aloke.signaturepad.SilkySignaturePad$OnSignedListener {*;}
+#-keep  interface com.aloke.signaturepad.SilkySignaturePad$OnSignedListener {*;}
