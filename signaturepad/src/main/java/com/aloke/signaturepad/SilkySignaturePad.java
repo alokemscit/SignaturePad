@@ -49,7 +49,7 @@
      private int mMinWidth;
      private int mMaxWidth;
      private float mVelocityFilterWeight;
-     private OnSignedListener mOnSignedListener;
+     public OnSignedListener mOnSignedListener;
      private boolean mClearOnDoubleClick;
 
      //Click values
